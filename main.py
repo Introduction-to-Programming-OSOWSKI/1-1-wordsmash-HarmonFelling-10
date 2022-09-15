@@ -1,4 +1,4 @@
 def wordSmash():
-    a="cat"
-    b="dog"
-    print(ab)
+    a="Cat"
+    b="Dog"
+    print(a+b)
